@@ -1,3 +1,5 @@
+*__Following class on Angular on scrimba.com__*
+
 # AngularClass
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
