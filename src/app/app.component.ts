@@ -4,14 +4,13 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-root',
   template: `
     <app-customers></app-customers>
-  `,
-
+  `
 })
-export class AppComponent implements OnInit{
-  title :string;
+export class AppComponent implements OnInit {
+  constructor() { }
 
-  ngOnInit(): void {
-    // call a service to get data
-    this.title = "Hello Bitches";
+  ngOnInit() {
+
   }
+
 }
